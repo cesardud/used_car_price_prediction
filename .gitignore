@@ -1,0 +1,11 @@
+# Ignorar entorno virtual
+venv/
+
+# Ignorar cachés y archivos temporales
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Ignorar archivos del sistema (MacOS)
+.DS_Store
+

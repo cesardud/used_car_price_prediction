@@ -81,13 +81,16 @@ Se compararon distintos enfoques:
    git clone https://github.com/tu_usuario/used-car-price-prediction.git
    cd used-car-price-prediction
 
-Crea y activa un entorno virtual:
-python3 -m venv venv
-source venv/bin/activate
+2. Crea y activa un entorno virtual:
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
 
-Instala dependencias:
-pip install -r requirements.txt
+3. Instala dependencias:
+   ```bash
+   pip install -r requirements.txt
 
-Ejecuta en notebook:
-code notebook.ipynb
+4. Ejecuta en notebook:
+   ```bash
+   code notebook.ipynb
 
